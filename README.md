@@ -123,9 +123,7 @@ Track bookings and service requests with ease.
 
 ## 👨‍💻 Author
 
-**[Your Name Here]**  
-Salesforce Developer | [Your Degree/Background] | Passionate about CRM & Cloud Solutions  
-LinkedIn: [Your LinkedIn Profile]
+**[Sidhant Kaistha]**
 
 ---
 
@@ -140,10 +138,3 @@ LinkedIn: [Your LinkedIn Profile]
 
 This project is developed for educational and portfolio purposes.  
 Feel free to fork, adapt, or reference it for learning.
-
----
-
-**Tip:**  
-For each custom object, you can create a Salesforce Lightning Tab for easy access.  
-Use Record-Triggered Flows for dealer assignment and test drive reminders.  
-Implement Apex Triggers and Batch Jobs as described in your requirements.
