@@ -130,7 +130,7 @@ Track bookings and service requests with ease.
 ## 🔗 Project Links
 
 - 💻 GitHub Repository: [https://github.com/sidhantkaistha2004/Salesforce---WhatNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence]
-- 🎥 Demo Video: Coming soon...
+- 🎥 Demo Video: Uploaded the link at the skillwallet Salesforce.
 
 ---
 
