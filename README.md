@@ -141,6 +141,7 @@ WhatsNext Vision Motors/
 ## 👨‍💻 Author
 
 **[Sidhant Kaistha]**
+
 -Graphic Era Deemed To Be University
 -B.Tech in Computer Science with Specialization in Artificial Intelligence  
 -Email: [sidhantkaistha2004@gmail.com] 
