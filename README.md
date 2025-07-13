@@ -38,6 +38,23 @@ Track bookings and service requests with ease.
 
 ---
 
+## Folder Structure for Screenshots
+
+
+```
+WhatsNext Vision Motors/
+│
+├── Data Management-Objects/
+├── Data Management-Tabs/
+├── Data Management-App Manager/
+├── Data Management-Fields/
+├── Automation-Flows/
+└── Apex and Batch Class/ 
+```
+
+---
+
+
 ## 📐 Data Model Highlights
 
 **Custom Objects:**
